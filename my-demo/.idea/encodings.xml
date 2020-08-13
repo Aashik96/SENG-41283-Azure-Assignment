@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../Mobile-Web-App/movie-ticket-booking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datatransfer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/permanent-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/temporary-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/datatransfer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/storeowner-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

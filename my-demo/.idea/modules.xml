@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatransfer/datatransfer.iml" filepath="$PROJECT_DIR$/datatransfer/datatransfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/datatransfer/datatransfer (1) (com.uok).iml" filepath="$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/datatransfer/datatransfer (1) (com.uok).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Mobile-Web-App/movie-ticket-booking/movie-ticket-booking.iml" filepath="$PROJECT_DIR$/../../Mobile-Web-App/movie-ticket-booking/movie-ticket-booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-demo.iml" filepath="$PROJECT_DIR$/my-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permanent-product/permanent-product.iml" filepath="$PROJECT_DIR$/permanent-product/permanent-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permanent-product-client/permanent-product-client.iml" filepath="$PROJECT_DIR$/permanent-product-client/permanent-product-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/smartbay.iml" filepath="$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/smartbay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/storeowner-service/storeowner-service.iml" filepath="$PROJECT_DIR$/../../SmartBay/Smartbay_Latest/smartbay/storeowner-service/storeowner-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temporary-product/temporary-product.iml" filepath="$PROJECT_DIR$/temporary-product/temporary-product.iml" />
+    </modules>
+  </component>
+</project>

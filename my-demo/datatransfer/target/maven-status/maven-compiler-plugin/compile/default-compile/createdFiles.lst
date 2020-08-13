@@ -1,0 +1,6 @@
+com\aashik\models\User.class
+com\aashik\clients\PermanentProductClient$1.class
+com\aashik\repositories\ProductRepository.class
+com\aashik\repositories\UserRepository.class
+com\aashik\models\Product.class
+com\aashik\clients\PermanentProductClient.class

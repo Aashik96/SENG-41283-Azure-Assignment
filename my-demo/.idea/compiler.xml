@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="storeowner-service" />
+        <module name="temporary-product" />
+        <module name="customer-service" />
+        <module name="datatransfer" />
+        <module name="permanent-product-client" />
+        <module name="movie-ticket-booking" />
+        <module name="permanent-product" />
+        <module name="datatransfer (1) (com.uok)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="customer-service" target="1.8" />
+      <module name="datatransfer" target="1.8" />
+      <module name="datatransfer (1) (com.uok)" target="1.8" />
+      <module name="movie-ticket-booking" target="1.8" />
+      <module name="my-demo" target="1.8" />
+      <module name="permanent-product" target="1.8" />
+      <module name="permanent-product-client" target="1.8" />
+      <module name="smartbay" target="1.8" />
+      <module name="storeowner-service" target="1.8" />
+      <module name="temporary-product" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="customer-service" options="-parameters" />
+      <module name="datatransfer" options="-parameters" />
+      <module name="datatransfer (1) (com.uok)" options="-parameters" />
+      <module name="movie-ticket-booking" options="-parameters" />
+      <module name="my-demo" options="-parameters" />
+      <module name="permanent-product" options="-parameters" />
+      <module name="permanent-product-client" options="-parameters" />
+      <module name="storeowner-service" options="-parameters" />
+      <module name="temporary-product" options="-parameters" />
+    </option>
+  </component>
+</project>
