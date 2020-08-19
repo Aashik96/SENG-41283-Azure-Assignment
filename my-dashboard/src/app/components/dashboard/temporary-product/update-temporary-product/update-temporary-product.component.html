@@ -1,0 +1,22 @@
+<br>
+<form>
+  
+  <label for="name">Product Id</label>
+  <input type="text" class="form-control" id="code" placeholder="Product Code" [(ngModel)]="product.id" name="code">
+
+  <label for="name">Name</label>
+  <input type="text" class="form-control" id="name" placeholder="Product Name" [(ngModel)]="product.productName" name="name">
+
+  <label for="category">Category</label>
+  <input type="text" class="form-control" id="category" placeholder="Product Category" [(ngModel)]="product.category" name="category">
+
+  <label for="author">Price</label>
+  <input type="text" class="form-control" id="price" placeholder="Product Price" name="price" [(ngModel)]="product.price">
+
+
+    
+  <br>
+  <button type="button" class="btn btn-success" (click)="updateProduct()">Update Product</button>
+</form>
+
+

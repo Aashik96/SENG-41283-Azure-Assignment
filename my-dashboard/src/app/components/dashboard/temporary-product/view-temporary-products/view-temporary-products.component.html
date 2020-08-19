@@ -1,0 +1,32 @@
+<br><br>  
+      
+
+  
+  <table class="table table-hover table-dark">
+    <thead>
+        <tr >  
+          <th>Id</th>
+          <th>Name</th>
+          <th>Category</th>
+          
+          <th>Price</th>
+          
+          </tr> 
+    </thead>
+    <tbody>
+        <ng-container *ngFor="let product of products">   
+          <tr>
+            <td>{{product.id}}</td>
+            <td>{{product.productName}}</td>
+            <td>{{product.category}}</td>
+            <td>{{product.price}}</td>      
+        
+            <td><button class="btn btn-danger" (click)="deleteProduct(product.id)">Delete</button></td>
+            <td><button class="btn btn-info" (click)="updateProduct(product.id,product)">Update</button></td>
+          </tr>
+        </ng-container>
+    </tbody>
+  </table>
+
+    
+

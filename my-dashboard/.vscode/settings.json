@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b722ef2e-0825-4fab-8157-b53d0da65754/resourceGroups/SE-2015-002/providers/Microsoft.Web/sites/ashdashboard",
+    "appService.deploySubpath": "dist\\my-dashboard"
+}
